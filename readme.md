@@ -1,6 +1,6 @@
-#Assignment 3
+# Assignment 3
 
-##Goal
+## Goal
 Demonstrate understanding of DOM traversal and DOM manipulation. Build familiarity with JS syntax.
 
 ## Work
